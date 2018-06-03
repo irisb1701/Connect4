@@ -30,4 +30,4 @@ before your opponent
 Created By
 ==========
 
-Iris Beharaj
+Iris Beharaj and Joanne Huang
