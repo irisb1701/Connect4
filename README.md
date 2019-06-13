@@ -27,7 +27,4 @@ How to Win
 The goal of connect four is to have four of the same checkers in a row
 before your opponent
 
-Created By
-==========
 
-Iris Beharaj and Joanne Huang
